@@ -1,0 +1,11 @@
+{
+    "personas": [
+    {"nombre": "Aitor", "edad": 30},
+    {"nombre": "Maite", "edad": 25},
+    {"nombre": "Jon", "edad": 35},
+    {"nombre": "Leire", "edad": 28},
+    {"nombre": "Eneko", "edad": 32},
+    {"nombre": "Irati", "edad": 27}
+    ]
+    }
+    

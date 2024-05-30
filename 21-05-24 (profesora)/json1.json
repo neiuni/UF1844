@@ -1,0 +1,7 @@
+{
+    "titulo":"Titanic",
+    "director":"James Cameron",
+    "lanzamiento":1997,
+    "actores":["Leonardo DiCaprio" ,"Kate Winslet"],
+    "premioOscar": true
+}
